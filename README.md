@@ -105,3 +105,5 @@ Looking for more guidance? Full documentation for Gatsby lives [on Gatsby's webs
 Thanks for using this project! I'm always interested in seeing what people do with my projects, so don't hesitate to tag me on [Twitter](https://twitter.com/lekoarts_de) and share the project with me.
 
 Please star this project, share it on Social Media or consider supporting me on [Patreon](https://www.patreon.com/lekoarts) or [GitHub Sponsor](https://github.com/sponsors/LekoArts)!
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/08195f23-6d1a-4e95-a7d4-b41a9a813b62/deploy-status)](https://app.netlify.com/sites/amazing-bell-e3adb1/deploys)

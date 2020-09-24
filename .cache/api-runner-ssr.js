@@ -1,20 +1,20 @@
 var plugins = [{
-      plugin: require('/Users/essamkhattab/Desktop/Gatsby/gatsby-starter-portfolio-cara/node_modules/gatsby-plugin-mdx/gatsby-ssr'),
+      plugin: require('/Users/essamkhattab/Desktop/Gatsby/my-portfolio-cara/node_modules/gatsby-plugin-mdx/gatsby-ssr'),
       options: {"plugins":[]},
     },{
-      plugin: require('/Users/essamkhattab/Desktop/Gatsby/gatsby-starter-portfolio-cara/node_modules/gatsby-plugin-react-helmet/gatsby-ssr'),
+      plugin: require('/Users/essamkhattab/Desktop/Gatsby/my-portfolio-cara/node_modules/gatsby-plugin-react-helmet/gatsby-ssr'),
       options: {"plugins":[]},
     },{
-      plugin: require('/Users/essamkhattab/Desktop/Gatsby/gatsby-starter-portfolio-cara/node_modules/gatsby-plugin-theme-ui/gatsby-ssr'),
+      plugin: require('/Users/essamkhattab/Desktop/Gatsby/my-portfolio-cara/node_modules/gatsby-plugin-theme-ui/gatsby-ssr'),
       options: {"plugins":[]},
     },{
-      plugin: require('/Users/essamkhattab/Desktop/Gatsby/gatsby-starter-portfolio-cara/node_modules/gatsby-plugin-google-analytics/gatsby-ssr'),
+      plugin: require('/Users/essamkhattab/Desktop/Gatsby/my-portfolio-cara/node_modules/gatsby-plugin-google-analytics/gatsby-ssr'),
       options: {"plugins":[]},
     },{
-      plugin: require('/Users/essamkhattab/Desktop/Gatsby/gatsby-starter-portfolio-cara/node_modules/gatsby-plugin-manifest/gatsby-ssr'),
+      plugin: require('/Users/essamkhattab/Desktop/Gatsby/my-portfolio-cara/node_modules/gatsby-plugin-manifest/gatsby-ssr'),
       options: {"plugins":[],"name":"Cara - @lekoarts/gatsby-theme-cara","short_name":"Cara","description":"Playful and Colorful One-Page portfolio featuring Parallax effects and animations","start_url":"/","background_color":"#141821","theme_color":"#f6ad55","display":"standalone","cache_busting_mode":"query","include_favicon":true,"legacy":true,"theme_color_in_head":true,"cacheDigest":null},
     },{
-      plugin: require('/Users/essamkhattab/Desktop/Gatsby/gatsby-starter-portfolio-cara/node_modules/gatsby-plugin-offline/gatsby-ssr'),
+      plugin: require('/Users/essamkhattab/Desktop/Gatsby/my-portfolio-cara/node_modules/gatsby-plugin-offline/gatsby-ssr'),
       options: {"plugins":[]},
     }]
 // During bootstrap, we write requires at top of this file which looks like:
